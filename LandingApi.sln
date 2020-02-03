@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LandingApi", "LandingApi.csproj", "{01C31A04-A672-4E41-A36F-FFA003AA4333}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Landing.DataAccesLayer", "..\Landing.DataAccesLayer\Landing.DataAccesLayer.csproj", "{55332A7D-8624-4BB9-BFA8-94E749F4B7FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01C31A04-A672-4E41-A36F-FFA003AA4333}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01C31A04-A672-4E41-A36F-FFA003AA4333}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01C31A04-A672-4E41-A36F-FFA003AA4333}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01C31A04-A672-4E41-A36F-FFA003AA4333}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55332A7D-8624-4BB9-BFA8-94E749F4B7FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55332A7D-8624-4BB9-BFA8-94E749F4B7FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55332A7D-8624-4BB9-BFA8-94E749F4B7FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55332A7D-8624-4BB9-BFA8-94E749F4B7FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED699312-57C9-4684-81AA-E9B8EDDD8066}
+	EndGlobalSection
+EndGlobal
